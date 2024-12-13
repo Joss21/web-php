@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+a{
+    color:rgb(25, 148, 156)
+}
+
+a:visited{
+    color:rgb(25, 148, 156)
+}
+
+a:hover{
+    color: #555555;
+}
+
+#header{
+    width: 100px;
+    height: 145px;
+    margin: 0px auto;
+    background: #1827b3;
+}
+
+#logo img{
+    width: 100px;
+}
+
+.product img {
+    width: 100px;
+}
