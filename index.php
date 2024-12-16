@@ -32,6 +32,7 @@
             <div id="content">
                 <aside id="lateral">
                     <div id="login" class="block_aside">
+                        <h3>Ingresar</h3>
                         <form action="#" method="post">
                             <label for="email">Correo electrónico</label>
                             <input type="email" name="email" id="email"/>
@@ -49,23 +50,24 @@
                 </aside>
 
                 <div id="central">
+                    <h1>Productos destacados</h1>
                     <div class="product">
                         <img src="assets/img/top.png" alt="Camiseta negra ancha"/>
                         <h2>Camiseta Negra Ancha</h2>
                         <p>30 euros</p>
-                        <a href="#">Comprar</a>
+                        <a href="#" class="button">Comprar</a>
                     </div>
                     <div class="product">
                         <img src="assets/img/top.png" alt="Camiseta negra ancha"/>
                         <h2>Camiseta Negra Ancha</h2>
                         <p>30 euros</p>
-                        <a href="#">Comprar</a>
+                        <a href="#" class="button">Comprar</a>
                     </div>
                     <div class="product">
                         <img src="assets/img/top.png" alt="Camiseta negra ancha"/>
                         <h2>Camiseta Negra Ancha</h2>
                         <p>30 euros</p>
-                        <a href="#">Comprar</a>
+                        <a href="#" class="button">Comprar</a>
                     </div>
                 </div>
             </div>
